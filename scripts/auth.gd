@@ -1,6 +1,6 @@
 extends Control
 
-var webApiKey = "AIzaSyAVjO2sQhy0NIxzc2d1BgBsAkmIA5B4S2I"
+var webApiKey = "MASKED"
 var signupUrl = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key="
 var loginUrl = "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key="
 
