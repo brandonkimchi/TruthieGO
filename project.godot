@@ -40,7 +40,7 @@ enabled=PackedStringArray("res://addons/quiver_leaderboards/plugin.cfg", "res://
 
 [quiver]
 
-general/auth_token="V777gRU04s3p76VvpGzeBBbqKmDWHyb7jU4mDkXd"
+general/auth_token="MASKED"
 
 [rendering]
 
