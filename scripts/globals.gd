@@ -40,7 +40,7 @@ func send_to_quiver(name: String, score: int, truthBucks: int):
 	var url = "https://api.quiver.dev/v1/leaderboards/truthiego-truthiego-0rxo/scores"
 	var headers = [
 		"Content-Type: application/json",
-		"Authorization: Bearer V777gRU04s3p76VvpGzeBBbqKmDWHyb7jU4mDkXd"
+		"Authorization: MASKED"
 	]
 	var body = {
 		"score": score,
